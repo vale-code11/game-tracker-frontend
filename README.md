@@ -1,0 +1,1 @@
+# Frontend - GameTracker PRO\n\nRun: npm install && npm run dev
